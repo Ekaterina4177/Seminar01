@@ -3,3 +3,13 @@ C:\Users\Екатерина\OneDrive\Рабочий стол\Seminar1\Zadacha3\o
 C:\Users\Екатерина\OneDrive\Рабочий стол\Seminar1\Zadacha3\obj\Debug\net6.0\Zadacha3.AssemblyInfoInputs.cache
 C:\Users\Екатерина\OneDrive\Рабочий стол\Seminar1\Zadacha3\obj\Debug\net6.0\Zadacha3.AssemblyInfo.cs
 C:\Users\Екатерина\OneDrive\Рабочий стол\Seminar1\Zadacha3\obj\Debug\net6.0\Zadacha3.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\OneDrive\Рабочий стол\Seminar1\Zadacha3\bin\Debug\net6.0\Zadacha3.exe
+C:\Users\Екатерина\OneDrive\Рабочий стол\Seminar1\Zadacha3\bin\Debug\net6.0\Zadacha3.deps.json
+C:\Users\Екатерина\OneDrive\Рабочий стол\Seminar1\Zadacha3\bin\Debug\net6.0\Zadacha3.runtimeconfig.json
+C:\Users\Екатерина\OneDrive\Рабочий стол\Seminar1\Zadacha3\bin\Debug\net6.0\Zadacha3.dll
+C:\Users\Екатерина\OneDrive\Рабочий стол\Seminar1\Zadacha3\bin\Debug\net6.0\Zadacha3.pdb
+C:\Users\Екатерина\OneDrive\Рабочий стол\Seminar1\Zadacha3\obj\Debug\net6.0\Zadacha3.dll
+C:\Users\Екатерина\OneDrive\Рабочий стол\Seminar1\Zadacha3\obj\Debug\net6.0\refint\Zadacha3.dll
+C:\Users\Екатерина\OneDrive\Рабочий стол\Seminar1\Zadacha3\obj\Debug\net6.0\Zadacha3.pdb
+C:\Users\Екатерина\OneDrive\Рабочий стол\Seminar1\Zadacha3\obj\Debug\net6.0\Zadacha3.genruntimeconfig.cache
+C:\Users\Екатерина\OneDrive\Рабочий стол\Seminar1\Zadacha3\obj\Debug\net6.0\ref\Zadacha3.dll
